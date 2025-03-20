@@ -1,5 +1,5 @@
 # 江户川柯南 人物档案
-<img src="C:\Users\Szy20\Desktop\u=2699860655,1034344028&fm=253&fmt=auto&app=120&f=JPEG.webp" alt="GitHub Logo" title="GitHub Logo" width="800" height="500">
+<img src=”https://github.com/shang18-png/GitDemo/blob/main/%E6%9F%AF%E5%8D%97/u%3D2699860655%2C1034344028%26fm%3D253%26fmt%3Dauto%26app%3D120%26f%3DJPEG.webp“ alt="GitHub Logo" title="柯南" width="800" height="500">
 
 ## 基础档案
 - **真实姓名**：工藤新一  
