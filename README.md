@@ -1,5 +1,5 @@
 # 江户川柯南 人物档案
-<img src=”https://github.com/shang18-png/GitDemo/blob/main/%E6%9F%AF%E5%8D%97/u%3D2699860655%2C1034344028%26fm%3D253%26fmt%3Dauto%26app%3D120%26f%3DJPEG.webp“ alt="柯南" title="柯南" width="800" height="500">
+<img src=D:\demo\work\kenan.webp alt="柯南形象" width = "200"  />
 
 ## 基础档案
 - **真实姓名**：工藤新一  
@@ -42,3 +42,9 @@
 ## 人生信条
 > 🔍 **「真相只有一个！」**  
 > 🕶️ **伪装口头禅**：「啊咧咧？好奇怪哦～」
+
+##### 我最喜欢的环境工具是minicond
+<img src=D:\demo\work\1.png  width = "800" />
+
+##### 我可以在IDE上使用我建立的虚拟环境
+<img src="C:\Users\admin\Pictures\Screenshots\屏幕截图 2025-03-21 174547.png" width = "800" />
