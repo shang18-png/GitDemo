@@ -1,5 +1,5 @@
 # 江户川柯南 人物档案
-<img src=D:\demo\work\kenan.webp alt="柯南形象" width = "200"  />
+<img src=https://github.com/shang18-png/GitDemo/blob/main/work/kenan.webp alt="柯南形象" width = "200"  />
 
 ## 基础档案
 - **真实姓名**：工藤新一  
@@ -44,7 +44,7 @@
 > 🕶️ **伪装口头禅**：「啊咧咧？好奇怪哦～」
 
 ##### 我最喜欢的环境工具是minicond
-<img src=D:\demo\work\1.png  width = "800" />
+<img src=https://github.com/shang18-png/GitDemo/blob/main/work/1(1).png width = "800" />
 
 ##### 我可以在IDE上使用我建立的虚拟环境
-<img src="C:\Users\admin\Pictures\Screenshots\屏幕截图 2025-03-21 174547.png" width = "800" />
+<img src=https://github.com/shang18-png/GitDemo/blob/main/work/2(1).png width = "800" />
